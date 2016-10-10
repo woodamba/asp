@@ -1,3 +1,3 @@
 <%
-response.write "index"
+response.write "index2"
 %>
